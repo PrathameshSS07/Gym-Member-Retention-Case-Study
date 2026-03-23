@@ -39,3 +39,6 @@ This is an observational case study based on real-world gym operations and custo
 - Understanding real-world business constraints
 - Observing customer psychology in a local market
 - Identifying practical challenges in small-scale operations
+
+## Case Study Report
+[Download Full Report](Gym Case Study.pdf)
