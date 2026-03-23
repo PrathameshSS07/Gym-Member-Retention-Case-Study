@@ -16,7 +16,7 @@ The objective of this study is to examine how seasonal trends, pricing flexibili
 
 ## Key Insights
 - Membership demand increases significantly during monsoon due to limited outdoor activity
-- Flexible payment systems improve short-term retention but affect cash flow stability
+- Flexible payment systems (often based on personal relationships) help retain members in the short term, but frequently lead to delayed payments and unstable cash flow for the gym owner
 - Strong community relationships influence customer loyalty but also lead to delayed payments
 - Competition from better-equipped gyms affects long-term member retention
 
