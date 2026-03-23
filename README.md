@@ -20,6 +20,18 @@ The objective of this study is to examine how seasonal trends, pricing flexibili
 - Strong community relationships influence customer loyalty but also lead to delayed payments
 - Competition from better-equipped gyms affects long-term member retention
 
+## Business Problems Identified
+- Irregular cash flow due to flexible and delayed payments  
+- Limited equipment affecting member satisfaction  
+- Seasonal dependency leading to inconsistent revenue  
+- Competitive pressure from better-equipped gyms nearby
+
+## Recommendations
+- Introduce structured monthly payment plans to improve cash flow  
+- Add basic new equipment to retain members  
+- Offer seasonal membership packages during monsoon  
+- Improve customer engagement to compete with larger gyms  
+
 ## Nature of Study
 This is an observational case study based on real-world gym operations and customer behavior rather than structured survey data.
 
