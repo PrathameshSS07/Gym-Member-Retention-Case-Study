@@ -2,7 +2,7 @@
 Member Retention and Seasonal Demand in a Community Gym
 
 ## Overview
-This case study analyzes member retention patterns and seasonal demand in a local community gym. The focus is on understanding customer behavior, identifying churn patterns, and evaluating operational challenges.
+This case study is based on a real community gym in my village, where I observed member behavior, seasonal demand patterns, and operational challenges. The analysis focuses on understanding retention trends, especially during monsoon season, and how local dynamics affect business performance.
 
 ## Project Objective
 The objective of this study is to examine how seasonal trends, pricing flexibility, and community relationships impact gym membership retention and revenue consistency.
