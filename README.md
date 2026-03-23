@@ -41,4 +41,5 @@ This is an observational case study based on real-world gym operations and custo
 - Identifying practical challenges in small-scale operations
 
 ## Case Study Report
-[Download Full Report](Gym Case Study.pdf)
+
+[Download Full Report](Gym_Case_Study.pdf)
